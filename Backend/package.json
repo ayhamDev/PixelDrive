@@ -1,0 +1,28 @@
+{
+  "name": "pixeldrive-backend",
+  "version": "1.0.0",
+  "description": "pixeldrive backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayhamDev/PixelDrive.git"
+  },
+  "keywords": [
+    "pixeldrive",
+    "cloudstorage",
+    "selfhosted"
+  ],
+  "author": "ayham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayhamDev/PixelDrive/issues"
+  },
+  "homepage": "https://github.com/ayhamDev/PixelDrive#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
